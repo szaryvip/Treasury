@@ -1,0 +1,54 @@
+[
+    {
+        "age": 45,
+        "allPayments": 714780,
+        "details": {
+            "health": 162000,
+            "illness": 44100,
+            "pension": 27000,
+            "retirement": 175680,
+            "tax": 306000
+        },
+        "name": "Barbara",
+        "surname": "Kowalska"
+    },
+    {
+        "age": 30,
+        "allPayments": 0,
+        "details": {
+            "health": 0,
+            "illness": 0,
+            "pension": 0,
+            "retirement": 0,
+            "tax": 0
+        },
+        "name": "Tomasz",
+        "surname": "Wisnia"
+    },
+    {
+        "age": 78,
+        "allPayments": 1017666,
+        "details": {
+            "health": 221400,
+            "illness": 60270,
+            "pension": 36900,
+            "retirement": 240096,
+            "tax": 459000
+        },
+        "name": "Krystyna",
+        "surname": "Malina"
+    },
+    {
+        "age": 53,
+        "allPayments": 1319556,
+        "details": {
+            "health": 302400,
+            "illness": 67620,
+            "pension": 50400,
+            "retirement": 327936,
+            "tax": 571200
+        },
+        "name": "Andrzej",
+        "surname": "Truten"
+    }
+]
