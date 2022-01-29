@@ -1,5 +1,4 @@
-PROI 21L
-
+# Project zespołowy C++
 Zespół: Grabysz Marcin, Latosek Bartosz, Szarejko Łukasz
 
 Opis zadania:
