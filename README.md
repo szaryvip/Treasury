@@ -1,5 +1,5 @@
 # Project zespołowy C++
-Zespół: Grabysz Marcin, Latosek Bartosz, Szarejko Łukasz
+Zespół: [Grabysz Marcin](https://github.com/mgrabysz), Latosek Bartosz, Szarejko Łukasz
 
 Opis zadania:
 
